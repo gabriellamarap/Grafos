@@ -12,11 +12,9 @@ _Put an `x` in the boxes that apply_
 - [ ] Other (please, specify below)
 > If yes, specify
 
-
 ## Please check if the PR fulfills these quality requirements
 _Put an `x` in the boxes that apply_
 
-- [ ] Sonar without errors
 - [ ] I have added tests to cover my changes
 - [ ] All new and existing tests passed
 
@@ -39,7 +37,3 @@ _Put an `x` in the boxes that apply_
 
 - [ ] Are there database alterations? 
 > If yes, specify
-
-
-- [ ] Have you conducted an impact analysis of your change?
-> If yes, what systems were impacted? (eg marketplace, club, hot-pay, back-office)
